@@ -1,0 +1,3 @@
+Last week the data clean up on shared membership numbers was 90% successfully done for the BOSA products. 
+This week the Kimbilio team is focusing on cleaning accounts that are sharing the same ID Numbers for the FOSA products.
+Later in the course of the week they will be working on cleaning of accounts that are sharing the same phone numbers. 
